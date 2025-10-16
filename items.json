@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "nama": "Nike Air Force 1",
+        "status": "Sedang Dicuci",
+        "tanggalMasuk": "2025-10-16",
+        "tanggalSelesai": "-"
+    },
+    {
+        "id": 2,
+        "nama": "Adidas Samba",
+        "status": "Selesai",
+        "tanggalMasuk": "2025-10-10",
+        "tanggalSelesai": "2025-10-12"
+    },
+    {
+        "id": 3,
+        "nama": "Converse Chuck 70",
+        "status": "Sedang Dicuci",
+        "tanggalMasuk": "2025-10-15",
+        "tanggalSelesai": "-"
+    }
+]
