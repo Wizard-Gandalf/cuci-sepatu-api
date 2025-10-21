@@ -155,3 +155,4 @@ PUT → http://localhost:3000/items/:id
 DELETE → http://localhost:3000/items/:id
 
 link deploy
+https://cuci-sepatu-api.vercel.app/
