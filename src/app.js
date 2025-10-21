@@ -8,6 +8,15 @@ app.use(express.json());
 // path ke file JSON
 const dataPath = path.resolve("./items.json");
 
+
+app.get("/", (req, res) => {
+  res.json({ message: "Cuci Sepatu API OK" });
+});
+
+// route utama untuk /items
+app.use("/items", itemsRouter);
+
+export default app;
 // fungsi baca file
 function getItems() {
     const raw = fs.readFileSync(dataPath, "utf8");
