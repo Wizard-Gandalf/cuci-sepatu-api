@@ -154,13 +154,4 @@ PUT → http://localhost:3000/items/:id
 
 DELETE → http://localhost:3000/items/:id
 
-Struktur Folder
-cuci-sepatu-api/
-│
-├── src/
-│   └── app.js          # Berisi konfigurasi route Express
-│
-├── items.json          # Penyimpanan data sepatu
-├── server-local.js     # File utama untuk menjalankan server lokal
-├── package.json        # Dependensi Node.js
-└── README.md           # Dokumentasi proyek
+link deploy
