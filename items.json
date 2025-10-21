@@ -18,5 +18,18 @@
         "status": "Sedang Dicuci",
         "tanggalMasuk": "2025-10-15",
         "tanggalSelesai": "-"
+    },
+    {
+        "id": 4,
+        "nama": "Nike Air Max",
+        "warna": "Putih",
+        "status": "Sedang dicuci"
+    },
+    {
+        "id": 5,
+        "nama": "Adibas",
+        "status": "Sedang Dicuci",
+        "tanggalMasuk": "2025-09-11",
+        "tanggalSelesai": "2001"
     }
 ]
