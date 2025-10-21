@@ -30,7 +30,7 @@ function saveItems(items) {
 
 // Endpoint utama
 app.get("/", (req, res) => {
-  res.json({ message: "Cuci Sepatu API aktif di Vercel!" });
+  res.json({ message: "Cuci Sepatu API aktif!" });
 });
 
 // -------------------------------
